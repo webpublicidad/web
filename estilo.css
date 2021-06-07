@@ -416,6 +416,7 @@ span, .fa-facebook, .fa-linkedin, .fa-instagram, .fa-youtube{
       margin:auto ;
       border:2px #777 solid ;
       border-radius:20px;
+      Z-index:1000;
     
   }  
     
@@ -441,6 +442,7 @@ span, .fa-facebook, .fa-linkedin, .fa-instagram, .fa-youtube{
         height: 200px;
         border-radius:20px;
         object-fit:cover;
+        Z-index:1000;
     }
 @keyframes cambio {
         0%{margin-left:0;}
